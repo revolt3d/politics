@@ -18,6 +18,6 @@
         SetEnv PICO_URL_REWRITING 1
     </IfModule>
 </IfModule>
-
+AddType text/xml .xml
 # Prevent file browsing
 Options -Indexes -MultiViews
