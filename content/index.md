@@ -7,7 +7,7 @@ Template: news-index
 Hidden: true
 ---
 # News and Politics
-[RSS Feed](/rss)
+[RSS Feed](rss)
 
 This is a website about politics and news. This isn't a "news" website. There is no newsroom. There are no editors or publishers.
 
