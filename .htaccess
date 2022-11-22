@@ -18,6 +18,5 @@
         SetEnv PICO_URL_REWRITING 1
     </IfModule>
 </IfModule>
-AddType text/xml rss.xml
 # Prevent file browsing
 Options -Indexes -MultiViews
