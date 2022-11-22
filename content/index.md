@@ -11,4 +11,4 @@ Hidden: true
 
 This is a website about politics and news. This isn't a "news" website. There is no newsroom. There are no editors or publishers.
 
-The stories and content published here are hand-picked by me - Gen-X Dad.
+The stories and content published here are hand-picked, or written, by me - Gen-X Dad.
