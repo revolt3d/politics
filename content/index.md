@@ -8,7 +8,3 @@ Hidden: true
 ---
 # News and Politics
 [RSS Feed](rss.xml)
-
-This is a website about politics and news. This isn't a "news" website. There is no newsroom. There are no editors or publishers.
-
-The stories and content published here are hand-picked, or written, by me - Gen-X Dad.
