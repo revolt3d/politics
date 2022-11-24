@@ -23,9 +23,13 @@ Daniel Aston, 28, worked at Club Q as a bartender and entertainer. People who kn
 
 ![Daniel Aston](%assets_url%/daniel-aston.jpg)
 
-Kelly Loving, 40, whose sister described her as “caring and sweet”
+Kelly Loving, 40, is a trans woman. Loving's sister told the New York Times, "She was loving, always trying to help the next person out instead of thinking of herself. She just was a caring person. I was really close with her."
 
-Derrick Rump, 38, another club bartender known for his wit.
+![Kelly Loving](%assets_url%/kelly-loving.jpg)
+
+Derrick Rump, 38, is a bartender at Club Q. Coworkers and patrons of the club said Rump always makes people happy and safe.
+
+![Derrick Rump](%assets_url%/derrick-rump.jpg)
 
 ## Previous coverage
 Last night it happened again. A lunatic with a gun shot 23 innocent and unsuspecting people at Club Q in Colorado Springs. Of those shot, 5 of them are dead.
