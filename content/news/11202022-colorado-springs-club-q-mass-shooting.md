@@ -2,7 +2,7 @@
 Title: Club Q Colorado Springs Mass Shooting
 Description: Five innocent people slaughtered for hate.
 Author: revolt3d
-Date: 2022-11-20 08:34
+Date: 2022-11-23 21:34
 Template: news
 ---
 Saturday, November 19, 2022, five innocent people were executed at gay nightclub in Colorado Springs, Colorado.
