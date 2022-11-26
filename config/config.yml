@@ -66,4 +66,4 @@ twitter:
 ##
 # Custom
 #
-my_custom_setting: Hello World!     # You can access custom settings in themes using {{ config.my_custom_setting }}
+footer_message: 'This website is owned and maintained by one independent journalist in his free time. None of these stories are protected by any copyright. Steal all of this stuff, but a reference would be nice. The purpose of this website is to create a space where critical information can live outside of paywalls. There is no way to contact the site owner, this is purely a one-way form of communication. This website launched on November 19, 2022.'
