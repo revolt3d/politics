@@ -15,4 +15,4 @@ In a nation where most people can't be bothered to use a turn signal while drivi
 
 Without bold leadership, and the Democratic party willing to put their electoral asses on the line, we're going to let this bitch burn.
 
-The time to act to save the planet was 20 years ago. The next best time, is right now, but people need to stop accepting mediocrity. 
+The best time to act to save the planet was 20 years ago. The next best time, is right now, but people need to stop accepting mediocrity. 
