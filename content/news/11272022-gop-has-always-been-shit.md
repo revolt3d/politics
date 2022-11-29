@@ -13,7 +13,7 @@ One of the more sickening aspects of this dynamic is that Democratic leadership 
 
 Corn recalled in May when House Speaker Nancy Pelosi (D-Cali.) wondered aloud about the Republican Party.
 
-"I want the Republican Party to take back the party," Pelosi said, "take it back to where you were when you cared about a woman's right to choose, you cared about the environment ... this country needs a strong Republican Party. And we do. Not a cult. But a strong Republican Party."
+"I want the Republican Party to take back the party," Pelosi said, "take it back to where you were when you cared about a woman's right to choose, you cared about the environment ... this country needs a strong Republican Party. ... Not a cult. But a strong Republican Party."
 
 It's a problem that the Democratic Party elders think that the Republican Party which coined the phrase "welfare queen" is what we seek to restore. Pelosi is wrong. We don't want the Republican Party that embraces a "southern strategy" to appeal to white racists to win elections.
 
