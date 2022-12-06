@@ -2,7 +2,7 @@
 Title: The Republican Party Is Disintegrating 
 Description: Can the GOP survive? 
 Author: revolt3d
-Date: 2022-12-06 21:19
+Date: 2022-12-06 18:10
 Template: news
 ---
 I'm not going to predict the complete and total collapse of the Republican Party - not yet. Powerful people control the GOP, and could somehow course correct the party, but that's not currently happening.
