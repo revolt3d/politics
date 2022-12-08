@@ -2,7 +2,7 @@
 Title: Supreme Court to End Democracy - Probably
 Description: The collapse of Twitter is quickening. 
 Author: revolt3d
-Date: 2022-12-07 22:36
+Date: 2022-12-07 23:13
 Template: news
 ---
 The Supreme Court could rule democracy dead this year. The court has already made women in this country no longer free, so ending democracy isn't radical for this "conservative court."
