@@ -1,5 +1,5 @@
 ---
-Title: Trump's Laywers Find More Stolen Classified Documents Trump Stole
+Title: Trump's Laywers Find More Stolen Classified Documents
 Description: How many felonies must one man commit before they are indicted?
 Author: revolt3d
 Date: 2022-12-08 08:01
