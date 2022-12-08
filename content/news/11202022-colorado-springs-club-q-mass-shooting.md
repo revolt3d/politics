@@ -5,7 +5,7 @@ Author: revolt3d
 Date: 2022-11-23 21:34
 Template: news
 ---
-Saturday, November 19, 2022, five innocent people were executed at gay nightclub in Colorado Springs, Colorado.
+Saturday, November 19, 2022, five innocent people were executed at a gay nightclub in Colorado Springs, Colorado.
 
 The victims are Daniel Aston, Kelly Loving, Ashley Paugh, Derrick Rump, and Raymond Green Vance.
 
