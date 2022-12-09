@@ -6,7 +6,7 @@ Date: 2022-12-08 08:01
 Template: news
 ---
 The original story is behind a Washington Post paywall, but [according to The Daily Kos](https://www.dailykos.com/stories/2022/12/7/2140528/-Trump-s-attorneys-claim-to-have-searched-Trump-properties-and-found-no-classified-docs-again), Trump's laywers have reportedly "found" more classified documents that Trump stole from our government.
-
+∑
 Has anyone kept track of the number of serious felonies Trump has committed in the last 6 years? It has to be in the dozens. Trump has not once been even considered for a criminal indictment. Previous stolen documents included nuclear secrets. This country has literally executed people for stealing nuclear secrets. 
 
 In the recent fraud conviction for the company that he personally owns, Trump wasn't indicted. Even though prosecutors said that Trump was aware of the tax fraud, and "signed off on it," yet, Trump was not indicted.
