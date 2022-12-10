@@ -1,10 +1,22 @@
 ---
-Title: Club Q Colorado Springs Mass Shooting
+Title: Alleged Club Q Shooter Has Recent History with Criminal Violence
 Description: Five innocent people slaughtered for hate.
 Author: revolt3d
-Date: 2022-11-23 21:34
+Date: 2022-12-10 21:34
 Template: news
 ---
+The person arrested for murdering five innocent people at Club Q in Colorado Springs had a recent history of extremely violent behavior.
+
+[NPR reported Dec. 9, 2022](https://www.npr.org/2022/12/09/1141803798/the-colorado-shooting-suspects-2021-case-dropped-for-lack-of-cooperation-da-says) that a court dismissed five felony charges four months before a gunman attacked Club Q.
+
+After making bombthreats, the suspected Club Q shooter got into a lengthy standoff with police - grandparents were held as hostages. The prosecutor said they pursued the case, but the suspect's grandparents and mother refused to testify in court.
+
+Had they done so, the shooter wouldn't have been a shooter, they would have been an inmate. But even after this violent hostage situation, there seemed to have been no attempt to get guns away from this person.
+
+We're all just getting lucky that some madman with a gun doesn't gun us down where we stand - life in America.
+
+## Previous Coverage
+
 Saturday, November 19, 2022, five innocent people were executed at a gay nightclub in Colorado Springs, Colorado.
 
 The victims are Daniel Aston, Kelly Loving, Ashley Paugh, Derrick Rump, and Raymond Green Vance.
