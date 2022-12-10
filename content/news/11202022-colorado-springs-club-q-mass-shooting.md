@@ -5,7 +5,7 @@ Author: revolt3d
 Date: 2022-12-10 21:34
 Template: news
 ---
-The person arrested for murdering five innocent people at Club Q in Colorado Springs had a recent history of extremely violent behavior.
+The person arrested for murdering five innocent people at Club Q in Colorado Springs has recently engaged in extremely violent behavior.
 
 [NPR reported Dec. 9, 2022](https://www.npr.org/2022/12/09/1141803798/the-colorado-shooting-suspects-2021-case-dropped-for-lack-of-cooperation-da-says) that a court dismissed five felony charges four months before a gunman attacked Club Q.
 
