@@ -3,6 +3,8 @@ Title: Outspoken Journalist Suddenly Dies in Qatar Covering the World Cup
 Description: The cause of death has not been made public, but people should not assume this wasn't murder
 Author: revolt3d
 Date: 2022-12-10 09:52
+Updated: 2022-12-10 09:52
+Img: grant-wahl-qatar-rainbow-shirt.jpg
 Template: news
 ---
 ![Grant Wahl Rainbow T-Shirt](%assets_url%/grant-wahl-qatar-rainbow-shirt.jpg)
