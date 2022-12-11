@@ -4,6 +4,7 @@ Description: Five innocent people slaughtered for hate.
 Author: revolt3d
 Date: 2022-12-10 21:34
 Template: news
+Img: clubq-logo.jpg
 ---
 The person arrested for murdering five innocent people at Club Q in Colorado Springs has recently engaged in extremely violent behavior.
 
