@@ -3,7 +3,9 @@ Title: Iran's Fascist Government Executed Mohsen Shekari Today
 Description: The government of Iran must be ended.
 Author: revolt3d
 Date: 2022-12-08 21:28
+Updated: 2022-12-08 21:28
 Template: news
+Img: mohsen-shekari-execution.png
 ---
 ![Mohsen Shekari, 23, Executed Iran December 8, 2022](%assets_url%/mohsen-shekari-execution.png)
 
