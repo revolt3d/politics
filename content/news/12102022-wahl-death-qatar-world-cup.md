@@ -1,12 +1,21 @@
 ---
-Title: Outspoken Journalist Suddenly Dies in Qatar Covering the World Cup
-Description: The cause of death has not been made public, but people should not assume this wasn't murder
+Title: Journalist Grant Wahl Transported Back To New York for Autopsy
+Description: Wahl's body is being transported to a medical examiner.
 Author: revolt3d
-Date: 2022-12-10 09:52
-Updated: 2022-12-10 09:52
+Date: 2022-12-13 22:46
+Updated: 2022-12-13 22:46
 Img: grant-wahl-qatar-rainbow-shirt.jpg
 Template: news
 ---
+US journalist Grant Wahl has been transported back to the US after unexpectedly dying in Qatar while covering the World Cup.
+
+Wahl's brother Eric was in New York with his brother's body, which is expected to be headed to a medical examiner for an autopsy.
+
+![Eric Wahl Tweet about Grant Wahl's Body Returning to New York](%assets_url%/eric-wahl-tweet-grant-wahl.jpg)
+
+Wahl fell ill while covering the World Cup. He died last Friday. The cause of death has not been determined.
+
+## Previous Coverage December 10, 2022
 ![Grant Wahl Rainbow T-Shirt](%assets_url%/grant-wahl-qatar-rainbow-shirt.jpg)
 
 Grant Wahl is dead. The sportswriter collapsed while covering the World Cup in Qatar on Friday. Was Wahl murdered?

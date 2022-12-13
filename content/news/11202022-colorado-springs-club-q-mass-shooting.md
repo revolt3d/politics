@@ -16,7 +16,7 @@ Had they done so, the shooter wouldn't have been a shooter, they would have been
 
 We're all just getting lucky that some madman with a gun doesn't gun us down where we stand - life in America.
 
-## Previous Coverage
+## Previous Coverage November 24, 2022
 
 Saturday, November 19, 2022, five innocent people were executed at a gay nightclub in Colorado Springs, Colorado.
 
@@ -44,7 +44,7 @@ Raymond Green Vance, 22, is a Colorado Springs native. His girlfriend said that 
 
 ![Raymond Green Vance](%assets_url%/raymond-green-vance.jpg)
 
-## Previous coverage
+## Previous coverage November 20, 2022
 Last night it happened again. A lunatic with a gun shot 23 innocent and unsuspecting people at Club Q in Colorado Springs. Of those shot, 5 of them are dead.
 
 At around midnight Saturday, a shooter opened fire on the gay night club. No motive is yet known to the public. At this point, it's just one more random act of senseless violence directed at the gay community. 
