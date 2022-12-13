@@ -21,11 +21,11 @@ Back in 2018, Musk accused an innocent man trying to help rescue children trappe
 
 I don't know anything about Musk, but I find it interesting that he seems to default to calling people pedophiles and child abusers.
 
-In psychology there's a concept called "projection."
+In psychology, there's a concept called "projection."
 
 Psychological projection is an ego defense mechanism where unwanted thoughts, desires, motivations, attributes and feelings are attributed to others when they are actually attributable to oneself.
 
 ## References
-[Twitter’s Former Safety Head Forced Into Hiding After Threats: Reports](https://www.huffpost.com/entry/twitter-yoel-roth-threats-elon-musk_n_639883bee4b09e0de496a3ac)
+[Huffington Post: Twitter’s Former Safety Head Forced Into Hiding After Threats: Reports](https://www.huffpost.com/entry/twitter-yoel-roth-threats-elon-musk_n_639883bee4b09e0de496a3ac)
 
 [Psychopaths in Life: Projection: When Someone Accuses You Of Doing What They’re Doing](https://psychopathsinlife.com/projection-when-someone-accuses-you-of-doing-what-theyre-doing/)
