@@ -2,8 +2,8 @@
 Title: Journalist Grant Wahl Transported Back To New York for Autopsy
 Description: Wahl's body is being transported to a medical examiner.
 Author: revolt3d
-Date: 2022-12-13 22:46
-Updated: 2022-12-13 22:46
+Date: 2022-12-12 22:46
+Updated: 2022-12-12 22:46
 Img: grant-wahl-qatar-rainbow-shirt.jpg
 Template: news
 ---
