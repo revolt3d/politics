@@ -2,8 +2,8 @@
 Title: It's Not the Internet, Stupid
 Description: Please stop misdiagnosing our problem, it's us, not the Internet
 Author: revolt3d
-Date: 2022-12-13 09:22
-Updated: 2022-12-13 09:22
+Date: 2022-12-13 14:22
+Updated: 2022-12-13 14:22
 Img: www.jpg
 Template: news
 ---
