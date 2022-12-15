@@ -15,6 +15,9 @@ Wahl's brother Eric was in New York with his brother's body, which is expected t
 
 Wahl fell ill while covering the World Cup. He died last Friday. The cause of death has not been determined.
 
+### Reference
+[Yahoo News: Sports reporter Grant Wahl's body transported back to US after death during World Cup in Qatar](https://www.yahoo.com/gma/sports-reporter-grant-wahls-body-014845985.html)
+
 ## Previous Coverage December 10, 2022
 ![Grant Wahl Rainbow T-Shirt](%assets_url%/grant-wahl-qatar-rainbow-shirt.jpg)
 
