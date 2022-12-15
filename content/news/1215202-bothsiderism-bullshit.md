@@ -2,8 +2,8 @@
 Title: Dear NPR, both parties have not been radicalized - it's really just the Republicans
 Description: The MSM doesn't get it. Or they get it and they're lying to us.
 Author: revolt3d
-Date: 2022-12-15 17:22
-Updated: 2022-12-15 17:22
+Date: 2022-12-15 12:22
+Updated: 2022-12-15 12:22
 Img: npr-logo.jpg
 Template: news
 ---

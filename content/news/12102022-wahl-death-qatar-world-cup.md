@@ -1,12 +1,21 @@
 ---
-Title: Journalist Grant Wahl Transported Back To New York for Autopsy
-Description: Wahl's body is being transported to a medical examiner.
+Title: Autopsy Reviews Journalist Grant Wahl's Cause of Death
+Description: Wahl's wife reveals the results of the autopsy that Grant Wahl died of an aneurysm in his heart.
 Author: revolt3d
-Date: 2022-12-12 22:46
-Updated: 2022-12-12 22:46
-Img: grant-wahl-qatar-rainbow-shirt.jpg
+Date: 2022-12-15 15:49
+Updated: 2022-12-15 15:49
+Img: grant-wahl-portrait.jpg
 Template: news
 ---
+![Grant Wahl Rainbow T-Shirt](%assets_url%/grant-wahl-portrait.jpg)
+
+Outspoken journalist Grant Wahl died covering the World Cup of an aneurysm in his heart.
+
+"Grant died from the rupture of a slowly growing, undetected ascending aortic aneurysm with hemopericardium," Grant's wife Dr. Celine Gounder wrote [on her husband's substack](https://grantwahl.substack.com/p/a-note-from-grants-wife-celine-gounder).
+
+What a tragic loss for Grant Wahl's family and friends. At only 49 years old, Wahl had more to do on this rock. Rest in peace, Mr. Wahl. You left a mark.
+
+## Previous Coverage December 12, 2022
 US journalist Grant Wahl has been transported back to the US after unexpectedly dying in Qatar while covering the World Cup.
 
 Wahl's brother Eric was in New York with his brother's body, which is expected to be headed to a medical examiner for an autopsy.
