@@ -1,5 +1,5 @@
 ---
-Title: Dear NPR, It's not both parties. The GOP has spiraled into a shit show of nazis and fascists.
+Title: Dear NPR, both parties have not been radicalized - it's really just the Republicans
 Description: The MSM doesn't get it. Or they get it and they're lying to us.
 Author: revolt3d
 Date: 2022-12-15 17:22
