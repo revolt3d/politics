@@ -21,6 +21,6 @@ I don't see that happening. I see Nancy Pelosi, Chuck Schumer, Steny Hoyer and J
 
 It's different on the Republican side. The Republican party leader is Donald Trump. Trump has committed many felonies against this country, including January 6. The party leadership is determined to end democracy in this country. The GOP and Trump have worked directly with our enemies, such as Putin, to destroy democracy in our country. 
 
-[Just last weekend](12122002-all-out-war-jan-6), Republicans spoke proudly about how the next time they launch a coup, they're bringing more guns. 
+[Just last weekend](12122022-all-out-war-jan-6), Republicans spoke proudly about how the next time they launch a coup, they're bringing more guns. 
 
 You won't hear any of this while consuming mainstream press. They are literally lying to you. It's not even journalism. It's disinformation. This is why I don't donate to NPR and I don't subscribe to mainstream press services.
