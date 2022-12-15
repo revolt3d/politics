@@ -1,5 +1,5 @@
 ---
-Title: Autopsy Reviews Journalist Grant Wahl's Cause of Death
+Title: Autopsy Reveals Journalist Grant Wahl's Cause of Death
 Description: Wahl's wife reveals the results of the autopsy that Grant Wahl died of an aneurysm in his heart.
 Author: revolt3d
 Date: 2022-12-15 15:49
