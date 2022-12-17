@@ -6,5 +6,5 @@ Date: 2021-12-15 10:31:03
 Template: news-index
 Hidden: true
 ---
-# News and Politics
+# %site_title%
 [RSS Feed](rss.xml)

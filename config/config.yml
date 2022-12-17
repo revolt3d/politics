@@ -1,9 +1,10 @@
 ##
 # Basic
 #
-site_title: "REvolt3D: Politics and News"                   # The title of your website
+site_title: "Gonzo Journalism: Truth Matters More"                   # The title of your website
 base_url: ~                         # Pico will try to guess its base URL, if this fails, override it here;
                                     #     Example: https://example.com/pico/
+site_description: "This is a real journalism website, not some bullshit corporate brainwash nonsense."
 rewrite_url: ~                      # A boolean (true or false) indicating whether URL rewriting is forced
 debug: ~                            # Set this to true to enable Pico's debug mode
 timezone: America/New_York                         # Your PHP installation might require you to manually specify a timezone
@@ -11,7 +12,6 @@ locale: ~                           # Your PHP installation might require you to
 
 author: 'REvolt3D'  
 authordescription: 'Editor'
-authortwitter:  
 numPerPage: 16
 
 ##
