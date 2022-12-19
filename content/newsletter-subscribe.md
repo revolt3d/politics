@@ -15,5 +15,5 @@ You can visit this online politics magazine every day and look for new and updat
 <input type="text" name="email" value="">
 </fieldset>
 <div class="h-captcha" data-sitekey="39f06dbd-7806-462d-91d3-65327da6154a"></div>
-<button type="submit">Subscribe to the %site_title% Email List</button>
+<button type="submit">Subscribe to the %site_title% Email Newsletter</button>
 </form>
