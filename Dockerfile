@@ -7,3 +7,4 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 RUN dpkg-reconfigure -f noninteractive tzdata
 ADD devsetup.ini /usr/local/etc/php/conf.d/
 COPY . /var/www/html
+RUN chown www-data /var/www/html/lists

@@ -9,6 +9,7 @@ return array(
     'AbstractPicoCompatPlugin' => $baseDir . '/plugins/PicoDeprecated/lib/AbstractPicoCompatPlugin.php',
     'AbstractPicoPluginApiCompatPlugin' => $baseDir . '/plugins/PicoDeprecated/lib/AbstractPicoPluginApiCompatPlugin.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
+    'CrapChaPlugin' => $baseDir . '/plugins/PicoDeprecated/plugins/CrapChaPlugin/CrapChaPlugin.php',
     'PicoCompatPluginInterface' => $baseDir . '/plugins/PicoDeprecated/lib/PicoCompatPluginInterface.php',
     'PicoDeprecated' => $baseDir . '/plugins/PicoDeprecated/PicoDeprecated.php',
     'PicoMainCompatPlugin' => $baseDir . '/plugins/PicoDeprecated/plugins/PicoMainCompatPlugin.php',

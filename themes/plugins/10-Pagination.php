@@ -67,7 +67,6 @@ class Pagination extends AbstractPicoPlugin {
 	public function onPageRendering(&$twig, &$twigVariables, &$templateName)
 	{
 		// Set a bunch of view vars
-
 		// send the paged pages in separate var
 		if ($this->paged_pages)
 			$twigVariables['paged_pages'] = $this->paged_pages;

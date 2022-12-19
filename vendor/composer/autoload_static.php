@@ -85,6 +85,7 @@ class ComposerStaticInit87d6b499cee4c4e11012f1e6d5477228
         'AbstractPicoCompatPlugin' => __DIR__ . '/../..' . '/plugins/PicoDeprecated/lib/AbstractPicoCompatPlugin.php',
         'AbstractPicoPluginApiCompatPlugin' => __DIR__ . '/../..' . '/plugins/PicoDeprecated/lib/AbstractPicoPluginApiCompatPlugin.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
+        'CrapChaPlugin' => __DIR__ . '/../..' . '/plugins/PicoDeprecated/plugins/CrapChaPlugin/CrapChaPlugin.php',
         'PicoCompatPluginInterface' => __DIR__ . '/../..' . '/plugins/PicoDeprecated/lib/PicoCompatPluginInterface.php',
         'PicoDeprecated' => __DIR__ . '/../..' . '/plugins/PicoDeprecated/PicoDeprecated.php',
         'PicoMainCompatPlugin' => __DIR__ . '/../..' . '/plugins/PicoDeprecated/plugins/PicoMainCompatPlugin.php',
