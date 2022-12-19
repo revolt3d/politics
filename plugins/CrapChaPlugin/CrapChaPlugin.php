@@ -39,7 +39,7 @@ class CrapChaPlugin extends AbstractPicoPlugin
      */
     public function onPageRendering(&$templateName, array &$twigVariables)
     {
-        if ($templateName == 'newsletter-subscribe-confirmation.twig') {
+        if ($templateName == 'newsletter-subscribe.twig') {
             if ($_POST['h-captcha-response']) {
                 $data = array(
                     'secret' => "0x290E9dB6E374804A1632E0d2f2D5AaDDd904987D",
