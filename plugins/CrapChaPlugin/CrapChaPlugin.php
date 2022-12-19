@@ -59,9 +59,6 @@ class CrapChaPlugin extends AbstractPicoPlugin
                     file_put_contents('lists/newsletter', $_POST['email'] . "\n", FILE_APPEND);
                     return;
                 }
-            } else {
-                echo "Error";
-                exit;
             }
         }
     }
