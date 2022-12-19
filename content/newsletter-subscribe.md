@@ -7,7 +7,7 @@ Updated: 2022-12-17 12:22
 Img: 
 Template: newsletter-subscribe
 ---
-You can visit this online politics magazine every day and look for new and updated stories. You can subscribe to the [RSS Feed](rss.xml) or you can signup to recieve an email newsletter.
+You can visit this online politics magazine every day and look for new and updated stories. You can subscribe to the [RSS Feed](rss.xml). Or, you can signup to receive an email newsletter.
 
 <form action="newsletter-subscribe-confirmation" method="post">
 <fieldset>
