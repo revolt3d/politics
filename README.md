@@ -1,2 +1,2 @@
-# minibike
-This is a website about minibikes
+# Politics
+This is a website about politics.
