@@ -24,7 +24,7 @@ twig_config:                        # Twig template engine config
     debug: ~                        # Enable Twig's debug mode
     cache: false                    # Enable Twig template caching by specifying a path to a writable directory
     auto_reload: ~                  # Recompile Twig templates whenever the source code changes
-
+base_css: default.css
 ##
 # Content
 #

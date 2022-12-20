@@ -62,8 +62,6 @@ CrapChaPlugin.enabled: true
 Pagination.enabled: true
 pagination_limit: 10
 
-twitter: 
-
 ##
 # Custom
 #
