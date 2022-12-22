@@ -1,5 +1,5 @@
 ---
-Title: Subscribe to the Truth Journalism Email Newsletter
+Title: Subscribe to the Press Email Newsletter
 Description: 
 Author: revolt3d
 Date: 2022-12-17 12:22
