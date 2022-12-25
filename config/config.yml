@@ -1,7 +1,7 @@
 ##
 # Basic
 #
-site_title: "Truth Journalism"                   # The title of your website
+site_title: "Press"                   # The title of your website
 base_url: ~                         # Pico will try to guess its base URL, if this fails, override it here;
                                     #     Example: https://example.com/pico/
 site_description: "This is a real journalism website, not some bullshit corporate brainwash nonsense."
@@ -65,4 +65,4 @@ pagination_limit: 10
 ##
 # Custom
 #
-footer_message: 'This website is owned and maintained by one independent journalist in his free time. None of these stories are protected by any copyright. Steal all of this stuff, but a reference would be nice. The purpose of this website is to create a space where information about our time on this rock can live outside of paywalls. This website launched on November 19, 2022.'
+footer_message: 'This website is maintained by one independent journalist in his free time. None of these stories are protected by any copyright. Steal all of this stuff, but a reference would be nice. The purpose of this website is to create a space where information about our time on this rock can live outside of paywalls. This website launched on November 19, 2022.'
