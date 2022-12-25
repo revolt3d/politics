@@ -4,7 +4,7 @@ Description: No Christmas for the bougies
 Author: revolt3d
 Date: 2022-12-25 14:22
 Updated: 2022-12-25 14:22
-Img: no-christmas-for-bougie.jpg
+Img: no-xmas-for-bougies.jpg
 Template: news
 ---
 ![No Christmas for Bougies Photos taken In Paris](%assets_url%/no-xmas-for-bougies.jpg)
