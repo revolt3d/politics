@@ -1,5 +1,5 @@
 ---
-Title: "Explicit Podcast MSM NPR Legalizing Weed is a Failure"
+Title: "Explicit Podcast: MSM NPR Legalizing Weed is a Failure"
 Description: Weed didn't radically transform our racist form of capitalism.
 Author: revolt3d
 Date: 2023-01-05 21:22
