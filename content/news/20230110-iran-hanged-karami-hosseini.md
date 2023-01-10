@@ -50,4 +50,4 @@ Both of Hasseini's parents are dead. Hosseini was arrested on the way to his par
 ## Previous Executions of Iranians Related to the Amini Protests
 
 * [December 8, 2022 Execution of Mohsen Shekari - 23 years old](12092022-mohsen-shekari-execution)
-* [December 12, 2022 Execution of Majid Reza Rahnavard](20230110-majid-reza-rahnavard-execution)
+* [December 12, 2022 Execution of Majid Reza Rahnavard - 23 years old](20230110-majid-reza-rahnavard-execution)
