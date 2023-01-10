@@ -20,5 +20,5 @@ At the time of this posting, January 10, a total of four men have been known to 
 ## Related Executions
 
 * [Mohammad Mehdi Karami and Seyed Mohammad Hosseini executed January 7, 2023](20230110-iran-hanged-karami-hosseini)
-* [Mohsen Shekari](12082022-mohsen-shekari-execution)
+* [Mohsen Shekari executed December 8, 2022](12082022-mohsen-shekari-execution)
 
